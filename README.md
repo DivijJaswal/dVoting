@@ -101,4 +101,4 @@ _Feel free to contribute._
 
 ---
 
-Made with ❤️ by [Divij Jaswal, Gaurav Gupta, ShivamShekhar].
+Made with ❤️ by Divij Jaswal, Gaurav Gupta, ShivamShekhar.
