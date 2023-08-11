@@ -2,7 +2,7 @@
 
 A decentralized voting system based on [Ethereum blockchain](https://ethereum.org/dapps/) technology.
 
-> This started as a final year project for the IT Degree that I was/am pursuing, now aiming to make this more than that.
+> This was the semester project for our Database Management Systems Course.
 
 ## System Workflow
 
@@ -13,8 +13,6 @@ A brief explanation on the basic workflow of the application.
 - The admin then will check if the registration information (blockchain account address, name, and phone number) is valid and matches with his record. If yes, then the admin approves the registered user making them eligible to take part and cast their respective vote in the election.
 - The registered user (voter) following the approval from the admin casts their vote to the candidate of interest (from the voting page).
 - After some time, depending on the scale of the election the admin ends the election. As that happens the voting is closed and the results are displayed announcing the winner at the top of the results page.
-
-  **See demo [here](https://youtu.be/nh1zfTTrdII "Watch dVoting demo").**
 
 ---
 
